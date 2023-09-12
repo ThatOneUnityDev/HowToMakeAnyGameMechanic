@@ -42,3 +42,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Player
+    uniqueID: 389639181
+    locked: 0
+  - name: Hair
+    uniqueID: 3866051129
+    locked: 0
+  - name: Eyes
+    uniqueID: 3784462319
+    locked: 0
+  - name: Clothes
+    uniqueID: 25958561
+    locked: 0
