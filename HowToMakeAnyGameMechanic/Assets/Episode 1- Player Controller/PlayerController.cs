@@ -21,7 +21,7 @@ public class PlayerController : MonoBehaviour
 
         if(useTransformMovement == false)
         {
-            rb.velocity = new Vector3(x, rb.velocity.y, 0);
+            rb.velocity = new Vector3(x * moveSpeed, rb.velocity.y, 0);
         }
         else
         {
