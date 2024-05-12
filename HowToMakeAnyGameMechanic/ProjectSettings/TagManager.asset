@@ -7,6 +7,7 @@ TagManager:
   - Collectible
   - ZoomOut
   - ZoomIn
+  - PlayerHitBox
   layers:
   - Default
   - TransparentFX
