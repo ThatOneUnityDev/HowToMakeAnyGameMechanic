@@ -30,4 +30,9 @@ public class PlayerController : MonoBehaviour
         }
        
     }
+
+    public void SetMoveSpeed(int _moveSpeed)
+    {
+        moveSpeed = _moveSpeed;
+    }
 }
