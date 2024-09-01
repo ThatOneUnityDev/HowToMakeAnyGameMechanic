@@ -29,6 +29,7 @@ public class Pitcher : MonoBehaviour
         batPitchPos = bat.localPosition;
         batSwungPos = new Vector3(batPitchPos.x + batSwungPosOffset, batPitchPos.y,batPitchPos.z);
         ballForceSlider.maxValue = maxBallForce;
+        Debug.Log(SaveLoadSystem.myStaticData);
     }
 
     // Update is called once per frame
